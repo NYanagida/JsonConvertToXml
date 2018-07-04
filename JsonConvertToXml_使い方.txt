@@ -1,0 +1,14 @@
+2018.7.4
+JSONを読み込んで、XMLに変換する。
+
+[-i InputFileName]		: インプットファイルパス
+[-o OutputFileName] 	: アウトプットファイルパス
+
+■ 必須引数
+[-i InputFileName]
+[-o OutputFileName]
+
+例：
+-i $(val:SYS_WKDIR)\sample.html -o $(val:SYS_WKDIR)\Convert.csv
+
+出力ファイル：Convert.csv

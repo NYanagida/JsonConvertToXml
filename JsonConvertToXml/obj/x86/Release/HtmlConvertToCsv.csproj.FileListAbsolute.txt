@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\HtmlConvertToCsv\HtmlConvertToCsv\bin\Release\HtmlConvertToCsv.exe
+c:\users\user\documents\visual studio 2010\Projects\HtmlConvertToCsv\HtmlConvertToCsv\bin\Release\HtmlConvertToCsv.pdb
+c:\users\user\documents\visual studio 2010\Projects\HtmlConvertToCsv\HtmlConvertToCsv\bin\Release\Microsoft.Web.XmlTransform.dll
+c:\users\user\documents\visual studio 2010\Projects\HtmlConvertToCsv\HtmlConvertToCsv\obj\x86\Release\HtmlConvertToCsv.exe
+c:\users\user\documents\visual studio 2010\Projects\HtmlConvertToCsv\HtmlConvertToCsv\obj\x86\Release\HtmlConvertToCsv.pdb

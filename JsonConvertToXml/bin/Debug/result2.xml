@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<areaData>
+  <_x002D_title>サンプルデータ</_x002D_title>
+  <hrTitle1>
+    <_x002D_title>見出し1</_x002D_title>
+    <_x002D_no>0</_x002D_no>
+    <hrTitle2>
+      <_x002D_title>見出し2a</_x002D_title>
+      <_x002D_no>0</_x002D_no>
+      <hrTitle3>
+        <_x002D_title>見出し3a</_x002D_title>
+        <_x002D_no>0</_x002D_no>
+        <listItem>テスト</listItem>
+      </hrTitle3>
+      <hrTitle3>
+        <_x002D_title>見出し3a</_x002D_title>
+        <_x002D_no>1</_x002D_no>
+        <listItem>テスト</listItem>
+      </hrTitle3>
+    </hrTitle2>
+    <hrTitle2>
+      <_x002D_title>見出し2b</_x002D_title>
+      <_x002D_no>1</_x002D_no>
+      <hrTitle3>
+        <_x002D_title>見出し3b</_x002D_title>
+        <_x002D_no>0</_x002D_no>
+        <listItem>テスト</listItem>
+        <listItem>テスト</listItem>
+        <listItem>テスト</listItem>
+        <listItem>テスト</listItem>
+        <listItem>テスト</listItem>
+      </hrTitle3>
+    </hrTitle2>
+  </hrTitle1>
+</areaData>
